@@ -10,3 +10,11 @@ body {
 .App {
   text-align: center;
 }
+
+.border {
+  background-color: gray;
+  width: 95%;
+  height: 2px;
+  border-radius: 3px;
+  margin: 5px auto;
+}
